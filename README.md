@@ -1,5 +1,5 @@
 # python-classObject_b-cw
-
+Great work! See graded_classes.py for comments. 3/3 Score : 5
 Start with a main function and make each problem a function. Call those functions from your main function.
 
 ### Problem 1:
